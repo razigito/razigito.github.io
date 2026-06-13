@@ -1,7 +1,6 @@
-# Razi Muhammed
 
 
-<img width="346" height="458" alt="studiofileedited" src="https://github.com/user-attachments/assets/a165b722-70eb-4899-9c2c-dd837b1d4a47" />
+<img width="300" height="400" alt="studiofileedited" src="https://github.com/user-attachments/assets/a165b722-70eb-4899-9c2c-dd837b1d4a47" />
 
 
 
