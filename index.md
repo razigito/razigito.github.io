@@ -4,7 +4,7 @@
 
 
 
-Production Engineering Student | Robotics Enthusiast | ROS 2 Developer | Mechanical Design Engineer
+#Production Engineering Student | Robotics Enthusiast | ROS 2 Developer | Mechanical Design Engineer
 
 Welcome to my personal website and portfolio.
 
