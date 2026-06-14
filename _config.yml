@@ -1,3 +1,34 @@
+#title: Razi Muhammed
+#description: Robotics | ROS 2 | Production Engineering
+#theme: jekyll-theme-merlot
+# Site settings
 title: Razi Muhammed
 description: Robotics | ROS 2 | Production Engineering
-theme: jekyll-theme-merlot
+remote_theme: mmistakes/minimal-mistakes@4.24.0
+locale: "en-US"
+
+# Plugins required for this theme
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
+
+# Site Author defaults
+author:
+  name: "Razi Muhammed"
+  bio: "Robotics | ROS 2 | Production Engineering"
+  avatar: "/assets/images/portfolio-photo.jpg"
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/yourprofile"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/yourusername"
+
+# Site defaults
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "single"
+      author_profile: true # Keeps your sidebar profile visible on pages
