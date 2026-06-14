@@ -9,19 +9,7 @@
 # Site settings
 title: Razi Muhammed
 description: Robotics | ROS 2 | Production Engineering
-remote_theme: alshedivat/al-folio
+theme: jekyll-theme-slate
 
-# Plugins needed for compiling locally or via remote builder
-plugins:
-  - jekyll-remote-theme
-  - jekyll-get-json
-
-# Profile Setup
-first_name: Razi
-last_name: Muhammed
-tagline: Robotics | ROS 2 | Production Engineering
-avatar: /assets/images/portfolio-photo.jpg
-
-# Social links configurations
-github_username: yourusername
-linkedin_username: yourusername
+# Theme-specific settings
+#show_downloads: false
