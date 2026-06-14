@@ -1,6 +1,6 @@
 
+<img width="1183" height="1329" alt="ChatGPT Image Jun 14, 2026, 02_36_00 PM" src="https://github.com/user-attachments/assets/e23c8161-25c8-42e1-9a25-7f9baf5517fc" />
 
-<img width="300" height="400" alt="studiofileedited" src="https://github.com/user-attachments/assets/a165b722-70eb-4899-9c2c-dd837b1d4a47" />
 
 
 
@@ -15,16 +15,11 @@ I am a Production Engineering undergraduate at NIT Calicut with a strong interes
 * 🎓 B.Tech in Production Engineering, NIT Calicut
 * 🤖 Passionate about Robotics and Autonomous Systems
 * 🛠 Interested in CAD, Simulation, ROS 2, and Embedded Systems
-* 🚀 Exploring Vision-Language-Action (VLA) Robotics
-* 🌱 Founder of AquaLeaf, an indoor plant and smart living startup concept
-
-## Technical Skills
 
 ### Mechanical Engineering
 
 * SolidWorks
 * Fusion 360
-* AutoCAD
 * ANSYS
 * Manufacturing Processes
 * Machine Design
@@ -33,26 +28,11 @@ I am a Production Engineering undergraduate at NIT Calicut with a strong interes
 
 * ROS 2
 * Arduino
-* ESP8266
+* ESP32
 * Sensor Integration
 * Autonomous Navigation
 * Robot Control Systems
 
-### Programming
-
-* Python
-* C++
-* MATLAB
-* Git
-* Linux
-
-### Tools & Platforms
-
-* Fedora Linux
-* Ubuntu
-* Docker
-* Gazebo
-* Jupyter Notebook
 
 ## Featured Projects
 
@@ -60,17 +40,10 @@ I am a Production Engineering undergraduate at NIT Calicut with a strong interes
 
 An autonomous robot that detects plant locations, measures soil moisture, and waters plants when required.
 
-### Autonomous Vacuum Cleaner
-
-A DIY robotic vacuum cleaner capable of obstacle detection and autonomous movement.
-
-### Hospital Bed Rotation System
+### Adjustable Hospital Bed
 
 A smart hospital bed capable of controlled side rotation with IMU-based angle feedback.
 
-### MATLAB Mini Drone Challenge
-
-Worked on autonomous drone algorithms and navigation strategies as part of a robotics competition team.
 
 ## Experience & Activities
 
@@ -85,7 +58,6 @@ Worked on autonomous drone algorithms and navigation strategies as part of a rob
 * Mobile Robotics
 * Computer Vision
 * AI for Robotics
-* Vision-Language-Action Systems
 * Autonomous Navigation
 
 ## Education
@@ -95,10 +67,10 @@ Bachelor of Technology (B.Tech) – Production Engineering
 
 ## Connect With Me
 
-* GitHub: https://github.com/yourusername
-* LinkedIn: https://linkedin.com/in/yourprofile
-* Email: [your-email@example.com](mailto:your-email@example.com)
+* GitHub: https://github.com/razigito
+* LinkedIn: https://linkedin.com/in/razi-muhammed
+* Email: [razimuhammedkv@gmail.com](mailto:razimuhammedkv@gmail.com)
 
 ---
 
-*"Turning engineering ideas into practical solutions."*
+
