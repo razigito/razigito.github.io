@@ -1,11 +1,9 @@
 
 <img width="118.3" height="132.9" alt="Image Jun 14, 2026, 02_36_00 PM" src="https://github.com/user-attachments/assets/e23c8161-25c8-42e1-9a25-7f9baf5517fc" />
 
-Production Engineering Student | Robotics Enthusiast | ROS 2 Developer | Mechanical Design Engineer
+Production Engineering Student | Robotics Enthusiast | ROS 2 Developer
 
 # Razi Muhammed
-
-**Production Engineering Student | Robotics & Mechanical Design**
 
 Hi! I'm Razi, a Production Engineering undergraduate at NIT Calicut interested in robotics, mechanical design and autonomous systems.
 
