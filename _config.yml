@@ -9,7 +9,7 @@
 # Site settings
 title: Razi Muhammed
 #description: Robotics | ROS 2 | Production Engineering
-# theme: jekyll-theme-slate
-theme: jekyll-theme-architect
+ theme: jekyll-theme-hacker
+#theme: jekyll-theme-architect
 # Theme-specific settings
 #show_downloads: false
